@@ -1,6 +1,6 @@
 # Quantumania Workshop ⚛
 
-Welcome to the "Quantumania" workshop organized by SEDS Antariksh! This workshop aims to introduce participants to the exciting field of quantum computing and quantum programming using Qiskit. :rocket:
+Welcome to the "Quantumania" workshop organized by SEDS Antariksh! This workshop aims to introduce participants to the exciting field of quantum computing and quantum programming using Qiskit. 🚀
 
 ## Workshop Content
 
@@ -17,12 +17,12 @@ To get started with the workshop, follow the steps below:
 
 ## Checklist
 
-- [x] Create repository ✅
-- [x] Create content ✏️
-- [x] Organize repository 📁
-- [x] Test notebooks 🧪
-- [ ] Share with participants 📢
-- [ ] Complete workshop 🎉
+- [X] Create repository ✅
+- [X] Create content ✏️
+- [X] Organize repository 📁
+- [X] Test notebooks 🧪
+- [X] Share with participants 📢
+- [X] Complete workshop 🎉
 
 ## Requirements
 
@@ -36,7 +36,7 @@ To run the hands-on exercises and work with Qiskit, make sure you have the follo
 This workshop is brought to you by the following contributors:
 
 - Jesher Joshua [@jesherjoshua](https://github.com/jesherjoshua)
-- Ashwin Sivakumar [@ashwinsivakumar](https://github.com/AshwinSivakumar) 
+- Ashwin Sivakumar [@ashwinsivakumar](https://github.com/AshwinSivakumar)
 
 Feel free to reach out to any of the contributors if you have any questions or need assistance. 📧
 
